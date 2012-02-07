@@ -1,5 +1,5 @@
 <h1>Blog posts</h1>
-<a href="posts/add">Add A Post</a>
+<a href="http://ec2-107-21-85-35.compute-1.amazonaws.com/cake2/posts/add">Add A Post</a>
 <table>
     <tr>
         <th>Id</th>
